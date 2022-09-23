@@ -1,6 +1,6 @@
 ### Olá devs 👋
 
-No momento estou estudando diversas tecnologias, gosto de criar coisas a partir delas.
+No momento estou estudando diversas tecnologias, gosto de testar coisas novas e criar a partir delas.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
