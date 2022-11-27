@@ -43,5 +43,5 @@ object **SEU NOME** {
 
 #### Rede Sociais!
 
-[![Linkedin: Vinicius Gabriel](https://img.shields.io/badge/-ViniciusGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gabriel-8336321b6/)](https://www.linkedin.com/in/vinicius-gabriel-8336321b6/)
+[![Linkedin: Vinicius Gabriel](https://img.shields.io/badge/-ViniciusGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gabriel-8336321b6/)](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-8336321b6)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.fariascontato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.fariascontato@gmail.com)](mailto:vinicius.fariascontato@gmail.com)
