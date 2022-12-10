@@ -7,7 +7,7 @@ No momento estou estudando diversas tecnologias, gosto de testar coisas novas e 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
+object **Vinicius** {
  val name = "Vinicius Gabriel"
  val acknowledgements = "Front-End"
  
