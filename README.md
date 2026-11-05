@@ -20,7 +20,7 @@ Antes da Evertec, trabalhei com aplicações Java para a área contábil, automa
 | Projeto | Problema e solução | Tecnologias |
 | --- | --- | --- |
 | [MangaMover](https://github.com/Vincius-dev/mangamover) | Automatiza a movimentação e organização de arquivos entre pastas, com monitoramento, agendamento e histórico. | Java 21, Javalin, SQLite, Docker |
-| [Bot Notification](https://github.com/Vincius-dev/bot-notification) | Monitora publicações e automatiza anúncios no Discord, integrando scraping e persistência. O repositório é um fork do projeto comunitário Tsundoku. | Python, MongoDB, Docker, pytest |
+| [Bot Notification](https://github.com/Vincius-dev/bot-notification) | Desenvolvi este bot na Tsundoku para monitorar publicações e automatizar anúncios no Discord e Facebook, com scraping, persistência e testes. [Repositório da organização](https://github.com/tsundokuapp/bot-notification). | Python, MongoDB, Docker, pytest |
 | [CronoTask](https://github.com/Vincius-dev/CronoTask) | API para gerenciar tarefas e acompanhar o tempo de execução, com [interface Angular](https://github.com/Vincius-dev/CronoTask-Front). | Java, Spring Boot, PostgreSQL, Angular |
 | [Calculadora de sistemas lineares](https://github.com/Vincius-dev/linear-systems-calc) | Ferramenta para resolver sistemas lineares pelo método de Gauss. | TypeScript, Next.js, React |
 | [UNO Java](https://github.com/Vincius-dev/uno-java) | Projeto de aprendizagem que aplica estruturas de dados às regras de um jogo de cartas. | Java, orientação a objetos, estruturas de dados |
