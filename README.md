@@ -15,9 +15,31 @@ Antes da Evertec, trabalhei com aplicações Java para a área contábil, automa
 - SQL Server, Oracle e MySQL
 - Swing e Selenium
 
-## Projetos
+## Projetos selecionados
 
-Este perfil reúne projetos de diferentes momentos da minha trajetória. Nos projetos recentes, utilizo IA como apoio ao desenvolvimento; o escopo de cada projeto e minha participação precisam ser considerados individualmente.
+| Projeto | Problema e solução | Tecnologias |
+| --- | --- | --- |
+| [MangaMover](https://github.com/Vincius-dev/mangamover) | Automatiza a movimentação e organização de arquivos entre pastas, com monitoramento, agendamento e histórico. | Java 21, Javalin, SQLite, Docker |
+| [Bot Notification](https://github.com/Vincius-dev/bot-notification) | Monitora publicações e automatiza anúncios no Discord, integrando scraping e persistência. O repositório é um fork do projeto comunitário Tsundoku. | Python, MongoDB, Docker, pytest |
+| [CronoTask](https://github.com/Vincius-dev/CronoTask) | API para gerenciar tarefas e acompanhar o tempo de execução, com [interface Angular](https://github.com/Vincius-dev/CronoTask-Front). | Java, Spring Boot, PostgreSQL, Angular |
+| [Calculadora de sistemas lineares](https://github.com/Vincius-dev/linear-systems-calc) | Ferramenta para resolver sistemas lineares pelo método de Gauss. | TypeScript, Next.js, React |
+| [UNO Java](https://github.com/Vincius-dev/uno-java) | Projeto de aprendizagem que aplica estruturas de dados às regras de um jogo de cartas. | Java, orientação a objetos, estruturas de dados |
+
+## Contribuição open source
+
+**[Seanime — PR #926 incorporado ao projeto](https://github.com/5rahim/seanime/pull/926)**
+
+Correções na reprodução direta de episódios e na atualização do progresso: identidade da URL do arquivo e cache do navegador, além de tratamento do estado da sessão de reprodução. A contribuição inclui testes de regressão em Go e alterações na interface web.
+
+## Produtos próprios
+
+- **[Anti-Arrombo](https://anti-arrombo.subarashi.cloud/):** finanças pessoais com importação revisável de extratos, recorrências, cartões, OCR e integração MCP.
+- **[Astra](https://astra.subarashi.cloud/):** organização visual de estudos com árvores de pré-requisitos e acompanhamento de progresso.
+- **[Engrama](https://engrama.subarashi.cloud/):** aprendizagem, prática e revisão espaçada, com interface web e aplicativo Android.
+
+Esses produtos utilizam infraestrutura compartilhada de hospedagem. Seus repositórios estão privados; as aplicações e a apresentação estão disponíveis pelo [portfólio](https://www.vinicius-dev.com).
+
+Nos projetos recentes, utilizo assistência intensiva de IA no desenvolvimento. O escopo, a maturidade e minha participação devem ser considerados individualmente. Os demais repositórios preservam estudos, trabalhos acadêmicos e experiências de diferentes fases da minha trajetória.
 
 ## Contato
 
