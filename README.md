@@ -6,7 +6,7 @@ Sou formado em Ciência da Computação pela Universidade São Judas Tadeu e tra
 
 Minha experiência inclui desenvolvimento e manutenção de APIs REST, integrações, demandas de ativo e passivo e sustentação de sistemas em produção. Participei de projetos de adequação ao CNPJ alfanumérico e de melhorias em fluxos operacionais de FIDC.
 
-Antes da Evertec, trabalhei com aplicações Java para a área contábil, automações com Selenium e atendimento a usuários. Também tenho experiência anterior em suporte de TI, redes, backups e monitoramento.
+Antes da Evertec, trabalhei com aplicações Java para a área contábil, automações com Selenium e atendimento a usuários. Minha experiência anterior em suporte de TI inclui conhecimentos em **redes de computadores e Linux**, além de atuação com backups e monitoramento.
 
 ## Tecnologias utilizadas profissionalmente
 
