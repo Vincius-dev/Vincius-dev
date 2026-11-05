@@ -1,47 +1,26 @@
-### Olá devs 👋
+# Vinícius Gabriel
 
-No momento estou estudando diversas tecnologias, gosto de testar coisas novas e criar a partir delas.
+**Desenvolvedor Java Pleno | Back-end | Sistemas financeiros**
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+Sou formado em Ciência da Computação pela Universidade São Judas Tadeu e trabalho com desenvolvimento back-end Java na Sinqia, em sistemas de backoffice de fundos de investimento.
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+Minha experiência inclui desenvolvimento e manutenção de APIs REST, integrações, demandas de ativo e passivo e sustentação de sistemas em produção. Participei de projetos de adequação ao CNPJ alfanumérico e de melhorias em fluxos operacionais de FIDC.
 
-```kotlin
-object **Vinicius** {
- val name = "Vinicius Gabriel"
- val acknowledgements = "Front-End"
- 
- val primarySkillset = "Linux, Redes, Boa comunicação, Comprometimento"
- val languages = listOf("Java","JavaScript", "React", "Node") 
-}
-```
+Antes da Sinqia, trabalhei com aplicações Java para a área contábil, automações com Selenium e atendimento a usuários. Também tenho experiência anterior em suporte de TI, redes, backups e monitoramento.
 
-## **Linguagens e Ferramentas:**  
+## Tecnologias utilizadas profissionalmente
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- Java e Spring Boot
+- APIs REST e integrações
+- SQL Server, Oracle e MySQL
+- Swing e Selenium
 
+## Projetos
 
-## **Estatísticas**
+Este perfil reúne projetos de diferentes momentos da minha trajetória. Nos projetos recentes, utilizo IA como apoio ao desenvolvimento; o escopo de cada projeto e minha participação precisam ser considerados individualmente.
 
-<a href="https://github.com/Vincius-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincius-dev&theme=dracula&hide_langs_below=1" />
-</a>
+## Contato
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vincius-dev&show_icons=true&theme=dracula&line_height=27" alt="**Vincius-dev** github stats"/>
-</a>
-
-[website]: https://codedev.ga/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-#### Rede Sociais!
-
-[![Linkedin: Vinicius Gabriel](https://img.shields.io/badge/-ViniciusGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gabriel-8336321b6/)](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-8336321b6)
-[![Gmail Badge](https://img.shields.io/badge/-vinicius.fariascontato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.fariascontato@gmail.com)](mailto:vinicius.fariascontato@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-8336321b6/)
+- [Portfólio](https://www.vinicius-dev.com)
+- [E-mail](mailto:vinicius.fariascontato@gmail.com)
